@@ -1,0 +1,4 @@
+*.pyc
+fitmate/temp.db
+temp.db
+restart_server.sh
